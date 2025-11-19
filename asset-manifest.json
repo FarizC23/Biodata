@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Biodata/static/css/main.8f975560.css",
-    "main.js": "/Biodata/static/js/main.936c3842.js",
+    "main.js": "/Biodata/static/js/main.b5f84713.js",
     "index.html": "/Biodata/index.html",
     "main.8f975560.css.map": "/Biodata/static/css/main.8f975560.css.map",
-    "main.936c3842.js.map": "/Biodata/static/js/main.936c3842.js.map"
+    "main.b5f84713.js.map": "/Biodata/static/js/main.b5f84713.js.map"
   },
   "entrypoints": [
     "static/css/main.8f975560.css",
-    "static/js/main.936c3842.js"
+    "static/js/main.b5f84713.js"
   ]
 }
